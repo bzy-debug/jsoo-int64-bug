@@ -1,0 +1,7 @@
+(executable
+ (public_name ocaml_int64)
+ (name ocaml_int64))
+
+(executable
+ (name js_int64)
+ (modes js))
